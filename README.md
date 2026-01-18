@@ -14,7 +14,6 @@ I'm a **Full-Stack Web Developer** focused on building real-world applications u
 * **Frontend:** React, TypeScript, JavaScript, HTML, CSS
 * **Backend:** Node.js, Express, .NET
 * **Databases:** MySQL, PostgreSQL
-* **Tools & OS:** Git, Linux (Ubuntu/Mint), VS Code
 
 ### 🏗️ Projects
 
