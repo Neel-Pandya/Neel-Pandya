@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Neel Pandya
 
-I'm a **Full-Stack Developer** focused on building real-world applications using **Typescript** across the stack. I enjoy understanding how systems work end-to-end and prefer learning by building practical projects rather than just following tutorials.
+I'm a **Full-Stack Web Developer** focused on building real-world applications using **Typescript** across the stack. I enjoy understanding how systems work end-to-end and prefer learning by building practical projects rather than just following tutorials.
 
 ### 🚀 Current Focus
 
