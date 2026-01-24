@@ -5,7 +5,7 @@ I'm a **Full-Stack Web Developer** focused on building real-world applications u
 ### 🚀 Current Focus
 
 * **Javascript** for frontend and backend development
-* **React + TypeScript** for modern, maintainable UIs
+* **React** for modern, maintainable UIs
 * **Node.js** for API development and integrations
 * Clean architecture and frontend–backend integration
 
