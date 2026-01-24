@@ -1,17 +1,17 @@
 ## 👋 Hi, I'm Neel Pandya
 
-I'm a **Full-Stack Web Developer** focused on building real-world applications using **Typescript** across the stack. I enjoy understanding how systems work end-to-end and prefer learning by building practical projects rather than just following tutorials.
+I'm a **Full-Stack Web Developer** focused on building real-world applications using **Javascript** across the stack. I enjoy understanding how systems work end-to-end and prefer learning by building practical projects rather than just following tutorials.
 
 ### 🚀 Current Focus
 
-* **TypeScript** for frontend and backend development
+* **Javascript** for frontend and backend development
 * **React + TypeScript** for modern, maintainable UIs
 * **Node.js** for API development and integrations
 * Clean architecture and frontend–backend integration
 
 ### 🧰 Tech Stack
 
-* **Frontend:** React, TypeScript, JavaScript, HTML, CSS
+* **Frontend:** React, JavaScript, HTML, CSS
 * **Backend:** Node.js, Express, .NET
 * **Databases:** MySQL, PostgreSQL
 
@@ -25,12 +25,6 @@ I'm a **Full-Stack Web Developer** focused on building real-world applications u
 ### 🧠 My Approach
 
 I focus on **strong fundamentals, type safety, and clean code**. I value clarity over hype and aim to build skills that translate well into production environments.
-
-### 📌 Goals
-
-* Master **TypeScript-based full-stack development**
-* Build scalable, production-ready applications
-* Improve backend architecture and system design skills
 
 Feel free to explore my repositories and follow my journey 🚀
 
