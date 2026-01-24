@@ -12,7 +12,7 @@ I'm a **Full-Stack Web Developer** focused on building real-world applications u
 ### 🧰 Tech Stack
 
 * **Frontend:** React, JavaScript, HTML, CSS
-* **Backend:** Node.js, Express, .NET
+* **Backend:** Node.js, Express
 * **Databases:** MySQL, PostgreSQL
 
 ### 🏗️ Projects
