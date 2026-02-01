@@ -1,32 +1,12 @@
 ## 👋 Hi, I'm Neel Pandya
 
-I'm a **Full-Stack Web Developer** focused on building real-world applications using **Javascript** across the stack. I enjoy understanding how systems work end-to-end and prefer learning by building practical projects rather than just following tutorials.
+I’m a **Full-Stack MERN Developer** with a strong focus on building **scalable, real-world web applications** using **JavaScript** across the stack. I specialize in developing clean, maintainable frontends with **React** and robust backend APIs using **Node.js and Express**, backed by well-structured databases.
 
-### 🚀 Current Focus
+I take a **practical, engineering-first approach** to development—prioritizing clean architecture, performance, and clarity over quick hacks. I enjoy working on end-to-end systems and understanding how frontend and backend components integrate in production environments.
 
-* **Javascript** for frontend and backend development
-* **React** for modern, maintainable UIs
-* **Node.js** for API development and integrations
-* Clean architecture and frontend–backend integration
+Currently, I’m deepening my expertise in the **MERN stack**, modern React patterns, and backend best practices, while continuously improving code quality, scalability, and developer experience through hands-on projects.
 
-### 🧰 Tech Stack
-
-* **Frontend:** React, JavaScript, HTML, CSS
-* **Backend:** Node.js, Express
-* **Databases:** MySQL, PostgreSQL
-
-### 🏗️ Projects
-
-* **FreshCart** – A Flutter-based app focused on practical app workflows and local data handling
-* **Inventory Management System (.NET)** – Built a complete system for product, stock, and inventory tracking
-* Backend authentication and API projects using Node and TypeScript
-* Full-stack experiments integrating React with Node
-
-### 🧠 My Approach
-
-I focus on **strong fundamentals, type safety, and clean code**. I value clarity over hype and aim to build skills that translate well into production environments.
-
-Feel free to explore my repositories and follow my journey 🚀
+I’m actively building and refining projects that reflect real industry use cases and am always eager to learn, collaborate, and contribute to impactful software solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neel-pandya-40325b227) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neelpandya2601@gmail.com) 
